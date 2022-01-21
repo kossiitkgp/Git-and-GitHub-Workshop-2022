@@ -3,7 +3,6 @@
 - ## LINUX INSTALLATION GUIDE
 
   Here are a few links to help you install git bash on your linux system:
-  Here are links to few installation guiding sites for installation of git bash on your linux system:
 
   https://git-scm.com/download/linux
 
