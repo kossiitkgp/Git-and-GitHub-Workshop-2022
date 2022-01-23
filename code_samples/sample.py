@@ -5,6 +5,8 @@ def add_two_numbers(a,b):
     Args:
         a,b : two real numbers
     '''
-    sum = a*b, print(sum)
+    sum = a + b
+    return sum
 
-add_two_numbers(5,2) # expected result 7
+ans = add_two_numbers(5,2) # expected result 7
+print(ans)
