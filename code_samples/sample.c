@@ -1,9 +1,9 @@
 #include <stdio.h>
-
-int add_two_numbers(a,b) {
+#include <math.h>
+int add_two_numbers(int a, int b) {
     int sum;
-    sum = a - b;
-    printf("%d", sum);
+    sum = a + b;
+    printf("%d\n", sum);
 }
 
 
