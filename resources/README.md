@@ -10,4 +10,4 @@ Here is a list of such resources:
 
 1. [Pro Git book](https://git-scm.com/book/en/v2): A good book to get a deeper understanding of things
 2. [Rebasing](https://youtu.be/f1wnYdLEpgI): An other powerful feature for a better workflow, helps updating your branch with the `main`(a frequent usecase)
-3. [Squashing](https://www.internalpointers.com/post/squash-commits-into-one-git): When you send a PR, you don't want to have absurd number of commits, you can *simply* them into a single commit
+3. [Squashing](https://www.internalpointers.com/post/squash-commits-into-one-git): When you send a PR, you don't want to have absurd number of commits, you can *simplify* them into a single commit
